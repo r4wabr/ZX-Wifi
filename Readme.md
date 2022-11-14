@@ -1,0 +1,1 @@
+https://zx-pk.ru/threads/33138-opros-wifi-dlya-zx-klonov-ne-na-fpga
