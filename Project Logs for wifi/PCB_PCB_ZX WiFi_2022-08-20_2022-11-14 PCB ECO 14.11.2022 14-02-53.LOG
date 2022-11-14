@@ -1,0 +1,392 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId= New DesignItemId=0.1u
+Change Component DesignItemId : Designator=C5 Old DesignItemId= New DesignItemId=0.1u
+Change Component DesignItemId : Designator=C6 Old DesignItemId= New DesignItemId=0.1u
+Change Component DesignItemId : Designator=C7 Old DesignItemId= New DesignItemId=0.1u
+Change Component DesignItemId : Designator=C8 Old DesignItemId= New DesignItemId=0.1u
+Change Component DesignItemId : Designator=C9 Old DesignItemId= New DesignItemId=0.1u
+Change Component DesignItemId : Designator=C10 Old DesignItemId= New DesignItemId=0.1u
+Change Component DesignItemId : Designator=C11 Old DesignItemId= New DesignItemId=0.1u
+Change Component DesignItemId : Designator=C12 Old DesignItemId= New DesignItemId=0.1u
+Change Component DesignItemId : Designator=R7 Old DesignItemId= New DesignItemId=1.5k
+Change Component DesignItemId : Designator=Y1 Old DesignItemId= New DesignItemId=1.8432MHz
+Change Component DesignItemId : Designator=R6 Old DesignItemId= New DesignItemId=1M
+Change Component DesignItemId : Designator=R1 Old DesignItemId= New DesignItemId=10k
+Change Component DesignItemId : Designator=R2 Old DesignItemId= New DesignItemId=10k
+Change Component DesignItemId : Designator=R3 Old DesignItemId= New DesignItemId=10k
+Change Component DesignItemId : Designator=R4 Old DesignItemId= New DesignItemId=10k
+Change Component DesignItemId : Designator=R5 Old DesignItemId= New DesignItemId=10k
+Change Component DesignItemId : Designator=C2 Old DesignItemId= New DesignItemId=10u
+Change Component DesignItemId : Designator=C3 Old DesignItemId= New DesignItemId=22p
+Change Component DesignItemId : Designator=R9 Old DesignItemId= New DesignItemId=47
+Change Component DesignItemId : Designator=R10 Old DesignItemId= New DesignItemId=47
+Change Component DesignItemId : Designator=C4 Old DesignItemId= New DesignItemId=47p
+Change Component DesignItemId : Designator=R8 Old DesignItemId= New DesignItemId=470
+Change Component DesignItemId : Designator=R11 Old DesignItemId= New DesignItemId=470
+Change Component DesignItemId : Designator=U3 Old DesignItemId= New DesignItemId=ESP12E
+Change Component DesignItemId : Designator=X4 Old DesignItemId= New DesignItemId=HDR-M-2.54_1x2
+Change Component DesignItemId : Designator=X5 Old DesignItemId= New DesignItemId=HDR-M-2.54_1x2
+Change Component DesignItemId : Designator=X6 Old DesignItemId= New DesignItemId=HDR-M-2.54_1x2
+Change Component DesignItemId : Designator=X2 Old DesignItemId= New DesignItemId=HDR-M-2.54_1x4
+Change Component DesignItemId : Designator=X3 Old DesignItemId= New DesignItemId=HDR-M-2.54_2x5
+Change Component DesignItemId : Designator=KEY1_RST Old DesignItemId= New DesignItemId=K2-3.6?6.1_SMD
+Change Component DesignItemId : Designator=KEY2_PRG Old DesignItemId= New DesignItemId=K2-3.6?6.1_SMD
+Change Component DesignItemId : Designator=U4 Old DesignItemId= New DesignItemId=LM1117-3.3 (SOT-223)
+Change Component DesignItemId : Designator=U5 Old DesignItemId= New DesignItemId=MAX3232ESE
+Change Component DesignItemId : Designator=SW1 Old DesignItemId= New DesignItemId=SK-12D02-VG5
+Change Component DesignItemId : Designator=U2 Old DesignItemId= New DesignItemId=SN74LS688N
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=TL16C550CFN
+Change Component DesignItemId : Designator=X1 Old DesignItemId= New DesignItemId=ZX SPECTRUM CONNECTOR
+Change component parameters: Designator = "U1" ("U1"); Footprint = "PLCC-44"; UniqueID = "\ggea79149bc5769670a" ("ggea79149bc5769670a")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "TL16C550CFN"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "DIP20"; UniqueID = "\gge59b29510b1ff31af" ("gge59b29510b1ff31af")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "SN74LS688N"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "SW-TH_SK-12D02VG3"; UniqueID = "\gge0b3d31aa8eb4c235" ("gge0b3d31aa8eb4c235")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "Rectangular Connectors - Contacts"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SK-12D02-VG5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C136722"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "SK-12D02-VG5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X2" ("X2"); Footprint = "HDR-M-2.54_1X4"; UniqueID = "\ggeb794c54fb8d6b9e0" ("ggeb794c54fb8d6b9e0")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124378"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "HDR-M-2.54_1x4"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X3" ("X3"); Footprint = "HDR-M-2.54_2X5"; UniqueID = "\gge14eff358ff9049c2" ("gge14eff358ff9049c2")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C178292"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "HDR-M-2.54_2x5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X4" ("X4"); Footprint = "HDR-M-2.54_1X2"; UniqueID = "\ggef178cbc6d61dd29c" ("ggef178cbc6d61dd29c")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124375"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "HDR-M-2.54_1x2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X5" ("X5"); Footprint = "HDR-M-2.54_1X2"; UniqueID = "\ggea332f301ec39e28a" ("ggea332f301ec39e28a")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124375"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "HDR-M-2.54_1x2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X6" ("X6"); Footprint = "HDR-M-2.54_1X2"; UniqueID = "\ggeb85f6962a6baaf71" ("ggeb85f6962a6baaf71")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124375"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "HDR-M-2.54_1x2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "OSC-TH_L10.0-W4.5-P5.00"; UniqueID = "\ggefbf03dcd8cd855b1" ("ggefbf03dcd8cd855b1")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "ValuePro"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "X49UD3579MSD2SC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C36564"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Frequency"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "X49UD3579MSD2SC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C0805"; UniqueID = "\ggec01d132572a3e09d" ("ggec01d132572a3e09d")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "C_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CASE-A_3216"; UniqueID = "\gge67f40dfb6eb8dd31" ("gge67f40dfb6eb8dd31")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "C_Tan_SMD_A_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C0805"; UniqueID = "\gge5584898696e628f3" ("gge5584898696e628f3")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "C_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C0805"; UniqueID = "\ggeb0c0a2c8698bda19" ("ggeb0c0a2c8698bda19")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "C_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C0805"; UniqueID = "\ggee52ffe98a56bb07f" ("ggee52ffe98a56bb07f")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "C_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "C0805"; UniqueID = "\gge7abcc65a12582176" ("gge7abcc65a12582176")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "C_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "C0805"; UniqueID = "\gge730345b02abd9fd9" ("gge730345b02abd9fd9")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "C_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "C0805"; UniqueID = "\ggefeed671438ffdb7f" ("ggefeed671438ffdb7f")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "C_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "C0805"; UniqueID = "\gge14b13b1a89af4d42" ("gge14b13b1a89af4d42")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "C_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "C0805"; UniqueID = "\gge7b0525f470fd2a03" ("gge7b0525f470fd2a03")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "C_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "C0805"; UniqueID = "\gge3e43de307f929062" ("gge3e43de307f929062")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "C_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "C0805"; UniqueID = "\ggefc262ca1f2e860e8" ("ggefc262ca1f2e860e8")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "C_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R0805"; UniqueID = "\ggeebb28c8a5c2b2b53" ("ggeebb28c8a5c2b2b53")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(?)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "R_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R0805"; UniqueID = "\gged42b89528bd47956" ("gged42b89528bd47956")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(?)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "R_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R0805"; UniqueID = "\gge1406ea31a202c304" ("gge1406ea31a202c304")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(?)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "R_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R0805"; UniqueID = "\ggef298cf5d1349f4b7" ("ggef298cf5d1349f4b7")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(?)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "R_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "R0805"; UniqueID = "\ggede689917cd7138b1" ("ggede689917cd7138b1")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(?)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "R_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "R0805"; UniqueID = "\gge50e38475e9c01cc5" ("gge50e38475e9c01cc5")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(?)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "R_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "R0805"; UniqueID = "\gge551978bb6113c29a" ("gge551978bb6113c29a")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(?)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "R_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "R0805"; UniqueID = "\ggec27edbecf6ce741b" ("ggec27edbecf6ce741b")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(?)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "R_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "R0805"; UniqueID = "\gge9d440beff5457e68" ("gge9d440beff5457e68")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(?)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "R_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "R0805"; UniqueID = "\gge89293e328efaf4e4" ("gge89293e328efaf4e4")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(?)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "R_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "R0805"; UniqueID = "\ggeb4bf9baa1d7827ed" ("ggeb4bf9baa1d7827ed")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(?)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "R_0805_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "KEY1_RST" ("KEY1_RST"); Footprint = "KEY-SMD_2P-L6.2-W3.6-LS8.0"; UniqueID = "\gged6e1a6119da15590" ("gged6e1a6119da15590")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "K2-1107ST-A4SW-06"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C118141"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "K2-3.6?6.1_SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "???"; Value = "????"; VariantName = "[No Variations]"
+Change component parameters: Designator = "KEY2_PRG" ("KEY2_PRG"); Footprint = "KEY-SMD_2P-L6.2-W3.6-LS8.0"; UniqueID = "\gge5c6651f32465f2ee" ("gge5c6651f32465f2ee")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "K2-1107ST-A4SW-06"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C118141"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "K2-3.6?6.1_SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "???"; Value = "????"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5" ("U5"); Footprint = "SOP-16_L9.9-W3.9-P1.27-LS6.0-BL"; UniqueID = "\gge451f71430034165d" ("gge451f71430034165d")
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "UMW(?????)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MAX3232ESE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C2904738"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "MAX3232ESE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4" ("U4"); Footprint = "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR"; UniqueID = "\gge1d847582e1d7008d" ("gge1d847582e1d7008d")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "UTC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "LM317G-AA3-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Paste Type"; Value = "expand"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C19651"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "LM317(SOT-223)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "ESP12E/F"; UniqueID = "\gge9ddbd622d1f8fac5" ("gge9ddbd622d1f8fac5")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "cpu76239"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "ESP12E/F"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X1" ("X1"); Footprint = "ZX SPECTRUM CONNECTOR"; UniqueID = "\gged0ea106f0748e115" ("gged0ea106f0748e115")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "cliff1024"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "ZX SPECTRUM CONNECTOR"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=A0 New Net Name=NetU2_2
+Change Net Name : Old Net Name=A1 New Net Name=NetU2_4
+Change Net Name : Old Net Name=A2 New Net Name=NetU2_6
+Change Net Name : Old Net Name=A3 New Net Name=NetU2_8
+Change Net Name : Old Net Name=A4 New Net Name=NetU2_11
+Change Net Name : Old Net Name=A5 New Net Name=NetU2_13
+Change Net Name : Old Net Name=A6 New Net Name=NetU2_15
+Change Net Name : Old Net Name=A7 New Net Name=NetU2_17
+Change Net Name : Old Net Name=A8 New Net Name=NetU1_31
+Change Net Name : Old Net Name=A9 New Net Name=NetU1_30
+Change Net Name : Old Net Name=A10 New Net Name=NetU1_29
+Change Net Name : Old Net Name=CS2 New Net Name=NetU1_16
+Change Net Name : Old Net Name=CTS New Net Name=NetU5_8
+Change Net Name : Old Net Name=CTS_TTL New Net Name=NetR9_1
+Change Net Name : Old Net Name=D0 New Net Name=NetU1_2
+Change Net Name : Old Net Name=D1 New Net Name=NetU1_3
+Change Net Name : Old Net Name=D2 New Net Name=NetU1_4
+Change Net Name : Old Net Name=D3 New Net Name=NetU1_5
+Change Net Name : Old Net Name=D4 New Net Name=NetU1_6
+Change Net Name : Old Net Name=D5 New Net Name=NetU1_7
+Change Net Name : Old Net Name=D6 New Net Name=NetU1_8
+Change Net Name : Old Net Name=D7 New Net Name=NetU1_9
+Change Net Name : Old Net Name=IORQ New Net Name=NetU2_1
+Change Net Name : Old Net Name=RD New Net Name=NetU1_24
+Change Net Name : Old Net Name=RTS New Net Name=NetU5_7
+Change Net Name : Old Net Name=RTS_TTL New Net Name=NetR8_2
+Change Net Name : Old Net Name=RXD New Net Name=NetU5_13
+Change Net Name : Old Net Name=RXD_ESP New Net Name=NetR11_2
+Change Net Name : Old Net Name=RXD_TTL New Net Name=NetU1_11
+Change Net Name : Old Net Name=TXD New Net Name=NetU5_14
+Change Net Name : Old Net Name=TXD_ESP New Net Name=NetR10_2
+Change Net Name : Old Net Name=TXD_TTL New Net Name=NetU1_13
+Change Net Name : Old Net Name=U1_10 New Net Name=NetU1_10
+Change Net Name : Old Net Name=U1_18 New Net Name=NetC3_2
+Change Net Name : Old Net Name=U1_19 New Net Name=NetR7_2
+Change Net Name : Old Net Name=U3_1 New Net Name=NetKEY1_RST_1
+Change Net Name : Old Net Name=U3_3 New Net Name=NetR1_1
+Change Net Name : Old Net Name=U3_7 New Net Name=NetR8_1
+Change Net Name : Old Net Name=U3_16 New Net Name=NetR2_2
+Change Net Name : Old Net Name=U3_17 New Net Name=NetR3_2
+Change Net Name : Old Net Name=U3_18 New Net Name=NetKEY2_PRG_1
+Change Net Name : Old Net Name=U3_21 New Net Name=NetR11_1
+Change Net Name : Old Net Name=U3_22 New Net Name=NetR10_1
+Change Net Name : Old Net Name=U5_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=U5_2 New Net Name=NetC11_1
+Change Net Name : Old Net Name=U5_3 New Net Name=NetC8_2
+Change Net Name : Old Net Name=U5_4 New Net Name=NetC9_2
+Change Net Name : Old Net Name=U5_5 New Net Name=NetC9_1
+Change Net Name : Old Net Name=U5_6 New Net Name=NetC12_1
+Change Net Name : Old Net Name=U5_16 New Net Name=NetC10_2
+Change Net Name : Old Net Name=WR New Net Name=NetU1_20
+Change Net Name : Old Net Name=Y1_1 New Net Name=NetC4_2
+Added Class: Name=Sheet_1_2022-11-14
+Added Room: Name=Sheet_1_2022-11-14
